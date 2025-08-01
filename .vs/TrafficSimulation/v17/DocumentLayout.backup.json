@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|solutionrelative:Vehicle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Car.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|solutionrelative:Car.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Truck.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|solutionrelative:Truck.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Vehicle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|solutionrelative:Vehicle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\TrafficLight.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|solutionrelative:TrafficLight.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\TrafficLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|solutionrelative:TrafficLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12157FD8-922B-4BF7-94CB-EB39CC5CBBFE}|TrafficSimulation.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.hpp",
+              "DocumentMoniker": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Truck.hpp",
+              "RelativeDocumentMoniker": "Truck.hpp",
+              "ToolTip": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Truck.hpp",
+              "RelativeToolTip": "Truck.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T00:23:23.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.hpp",
+              "DocumentMoniker": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Car.hpp",
+              "RelativeDocumentMoniker": "Car.hpp",
+              "ToolTip": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Car.hpp",
+              "RelativeToolTip": "Car.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T00:22:52.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cpp",
+              "DocumentMoniker": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Vehicle.cpp",
+              "RelativeDocumentMoniker": "Vehicle.cpp",
+              "ToolTip": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Vehicle.cpp*",
+              "RelativeToolTip": "Vehicle.cpp*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-31T00:22:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.hpp",
+              "DocumentMoniker": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Vehicle.hpp",
+              "RelativeDocumentMoniker": "Vehicle.hpp",
+              "ToolTip": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Vehicle.hpp",
+              "RelativeToolTip": "Vehicle.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-31T00:21:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrafficLight.cpp",
+              "DocumentMoniker": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\TrafficLight.cpp",
+              "RelativeDocumentMoniker": "TrafficLight.cpp",
+              "ToolTip": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\TrafficLight.cpp",
+              "RelativeToolTip": "TrafficLight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T18:08:32.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrafficLight.hpp",
+              "DocumentMoniker": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\TrafficLight.hpp",
+              "RelativeDocumentMoniker": "TrafficLight.hpp",
+              "ToolTip": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\TrafficLight.hpp",
+              "RelativeToolTip": "TrafficLight.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-29T18:08:03.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\lvwhi\\Downloads\\coding projects\\Final Project\\TrafficSimulation\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T17:43:57.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
